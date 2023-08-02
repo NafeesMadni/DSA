@@ -29,7 +29,7 @@ int BinarySearch(int arr[], int key, int n){
 }
 
 int main(){
-    int n = 8;
+    int n = 9;
     int key = 7;
     int arr[n] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
     
