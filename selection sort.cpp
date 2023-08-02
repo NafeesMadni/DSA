@@ -1,3 +1,4 @@
+// selection sort technique --> Find the minimum element in the unsorted array and swap it with the element at beginning
 #include <iostream>
 using namespace std;
 int main(){
